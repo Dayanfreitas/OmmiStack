@@ -43,7 +43,7 @@ export default class PointsController {
             email,
             whatsapp,
             latitude,
-            logitude,
+            longitude,
             city,
             uf,
             items
@@ -56,7 +56,7 @@ export default class PointsController {
             email,
             whatsapp,
             latitude,
-            logitude,
+            longitude,
             city,
             uf
         }
